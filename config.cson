@@ -1,0 +1,36 @@
+"*":
+  core:
+    disabledPackages: [
+      "welcome"
+      "styleguide"
+      "spell-check"
+      "metrics"
+      "feedback"
+    ]
+    ignoredNames: [
+      "*.pyc"
+      "*.*~"
+    ]
+  editor:
+    fontFamily: "Inconsolata"
+    fontSize: 16
+    preferredLineLength: 80
+    scrollSensitivity: 60
+    showIndentGuide: true
+    showInvisibles: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "5412c144-b546-4639-aa68-a1db8df879de"
+  linter:
+    showStatusBarWhenCursorIsInErrorRange: true
+  "linter-flake8":
+    maxLineLength: 80
+  "linter-pep8":
+    ignoreErrorCodes: [
+      "W0232"
+    ]
+  metrics: false
+  "tree-view":
+    showOnRightSide: true
+  welcome:
+    showOnStartup: false
