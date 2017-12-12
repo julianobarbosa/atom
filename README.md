@@ -1,2 +1,2 @@
 # atom
-ATOM
+ATOM Config file
