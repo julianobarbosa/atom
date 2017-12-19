@@ -1,0 +1,4 @@
+# c:\users\myuser\.atom\.apm
+https-proxy = http://172.xx.xx.1:3128256
+http-proxy = http://172.xx.xx.1:3128256
+strict-ssl = false
